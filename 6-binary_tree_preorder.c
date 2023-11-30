@@ -3,6 +3,7 @@
 /**
  * binary_tree_preorder - traverses binary tree with pre-order method
  * @tree: tree
+ * @func: function
  * Return: void
  */
 
